@@ -1,0 +1,21 @@
+{
+  "name": "game_of_life_js",
+  "version": "1.0.0",
+  "description": "conway's game of life",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require @babel/register"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/register": "^7.18.9",
+    "chai": "^4.3.6",
+    "eslint": "^8.26.0",
+    "eslint-plugin-react": "^7.31.10",
+    "mocha": "^10.1.0"
+  }
+}
